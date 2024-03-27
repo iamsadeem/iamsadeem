@@ -7,7 +7,7 @@ ___Welcome to my GitHub profile ♡___
 - 🌱 I’m currently learning: HTML, CSS, JavaScript, TypeScript and React.
 
 ___☁ Other thoughts:___  
-I enjoy collaborating with others and learning from different perspectives. Outside of coding, I love drawing, gaming, and cooking. 
+I enjoy collaborating with others and learning from different perspectives. Outside of coding, I love drawing and gaming. 
 
 `Feel free to reach out & say hi!`
   
