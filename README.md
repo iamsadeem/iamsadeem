@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there🌼
+___Welcome to my GitHub profile ♡___  
+*Here's a bit about me:*
 
-<!--
-**iamsadeem/iamsadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Recently graduated with a B.Sc. in Computer Science.
+- 🫧 I’m currently working to become a .NET full stack developer.
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, TypeScript and React.
 
-Here are some ideas to get you started:
+___☁ Other thoughts:___  
+I enjoy collaborating with others and learning from different perspectives. Outside of coding, I love drawing, gaming, and cooking. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Feel free to reach out & say hi!`
+  
